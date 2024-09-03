@@ -1,5 +1,6 @@
 # GamePong
-Pong is a classical arcade game - made with GML
+Pong is a classical arcade game.
+This recreated version is made with GML
 > Original Version Made by NoneClass
 
 Fonts used: 
