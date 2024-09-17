@@ -1,9 +1,7 @@
-# GamePong
+# Game Pong Halloween
 Pong is a classical arcade game.
 This recreated version is made with GML
 > Original Version Made by NoneClass
 
-Fonts used: 
-- Scary Halloween
-- Freaky Halloween
-- Digital-7
+Play Online on Itch
+https://ducabarros.itch.io/pong-halloween
