@@ -1,0 +1,16 @@
+P1 BH 
+X 32
+Y 176
+
+P2 BH 
+X 608
+Y 176
+
+
+Ball Middle of screen
+x 320
+y 176
+
+Ball - Room limits
+x-axis 32 ~ 640
+y-axis 48 ~ 304
